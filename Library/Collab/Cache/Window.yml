@@ -1,0 +1,1988 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Asset Packs/GameDev.tv Assets/Scripts/Utils/LazyValue.cs
+    - Assets/Asset Packs/Paid Assets.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Castle
+      Brick.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Castle
+      Brick.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Dark
+      Wood Beams.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Dark
+      Wood Beams.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Metal.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Metal.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/MiniCastle.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/MiniCastle.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/MiniCastle.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/MiniCastle.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Rope.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Rope.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Wood_Darker.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Materials/Wood_Darker.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Mini
+      Castle.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Mini
+      Castle.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Pillory.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Pillory.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Spiked
+      Wall.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Spiked
+      Wall.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Watch
+      Tower.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Components/Watch
+      Tower.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Mini
+      Castle.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Mini
+      Castle.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Pillory.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Pillory.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Spiked
+      Wall Piece.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Castle/Spiked
+      Wall Piece.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Massive
+      Marrow.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Massive
+      Marrow.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Materials/Massive
+      Marrow Pink Diffuse.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Materials/Massive
+      Marrow Pink Diffuse.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Materials/Massive
+      Marrow_Diffuse.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Components/Materials/Massive
+      Marrow_Diffuse.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Massive
+      Marrow.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Massive
+      Marrow.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Massive
+      Marrow_Diffuse.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Farm/Massive
+      Marrow_Diffuse.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Cart
+      Wood Slightly Lighter.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Cart
+      Wood Slightly Lighter.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Cart_Wood.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Cart_Wood.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Glass.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Glass.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Metal.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Metal.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Painted_Metal.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Painted_Metal.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Red_Roof.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Red_Roof.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Rope.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Rope.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/White_Render.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/White_Render.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Wood_Darker.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Wood_Darker.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Wood_Normal.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Materials/Wood_Normal.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Fallen
+      Stump.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Fallen
+      Stump.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Dead
+      Pine Tree.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Dead
+      Pine Tree.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Fallen
+      Stump.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Fallen
+      Stump.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Fallen
+      Stump.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Components/Materials/Fallen
+      Stump.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/FallenStump.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/FallenStump.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Massive
+      Marrow Pink.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Nature/Massive
+      Marrow Pink.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Diffuse.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Diffuse.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Height.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Height.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Normal.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Old
+      Floor Boards/Old Flooring_Normal.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_AO.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_AO.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Diffuse.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Diffuse.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Height.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Height.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Normal.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/StoneWork/StoneWork_Normal.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_AO.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_AO.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Diffuse.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Diffuse.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Height.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Height.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Normal.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Normal.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Specularity.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Gravel_Specularity.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Materials/Gravel_Diffuse.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Materials/Gravel_Diffuse.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Wood Planks Painted_Diffuse.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Textures/Tiling
+      Textures/Wood Planks Painted_Diffuse.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Arched
+      Wooden Bridge.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Arched
+      Wooden Bridge.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Barn.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Barn.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Barrel.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Barrel.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Cart
+      With Dark Wood.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Cart
+      With Dark Wood.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Castle
+      Entry Bridge.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Castle
+      Entry Bridge.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Chopping
+      Stump And Logs.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Chopping
+      Stump And Logs.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Barn.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Barn.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Cart.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Cart.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Chopping
+      Stump And Logs.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Chopping
+      Stump And Logs.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Crate.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Crate.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Hanging
+      Street Lamp.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Hanging
+      Street Lamp.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/House_Modular.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/House_Modular.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Beams.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Beams.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Couldnt
+      Hit The Side Of A Barn.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Couldnt
+      Hit The Side Of A Barn.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/House
+      Chimney.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/House
+      Chimney.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Roof
+      Of The Barn.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Roof
+      Of The Barn.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Barrel.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Barrel.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Bridge Planks.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Bridge Planks.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Plank House Roof.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Plank House Roof.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Plank House Wall.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Materials/Wooden
+      Plank House Wall.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Pickett
+      Fence.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Pickett
+      Fence.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Simple
+      Wooden Bench.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Simple
+      Wooden Bench.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Water
+      Mill.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/Water
+      Mill.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/WheelBarrow_LOD_B.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/WheelBarrow_LOD_B.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/WindMill.fbx
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Components/WindMill.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Crate
+      1.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Crate
+      1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/First
+      Bridge Into Town.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/First
+      Bridge Into Town.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Hanging
+      Street Lamp.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Hanging
+      Street Lamp.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Justin
+      Timberlakes House.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Justin
+      Timberlakes House.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Large
+      Square Crate.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Large
+      Square Crate.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Materials/House
+      Brick Wall Greenish Tinge.mat
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Materials/House
+      Brick Wall Greenish Tinge.mat.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Medium
+      Rectangular Crate.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Medium
+      Rectangular Crate.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Second
+      Bridge Into Town.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Second
+      Bridge Into Town.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Simple
+      Wooden Bench.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Simple
+      Wooden Bench.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Simple
+      Wooden Cart.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Simple
+      Wooden Cart.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Third
+      Bridge Into Town.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Third
+      Bridge Into Town.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Water
+      Mill.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Water
+      Mill.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Wheel
+      Barrow.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Wheel
+      Barrow.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/WindMill.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/WindMill.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Wooden
+      Watch Tower.prefab
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Village/Wooden
+      Watch Tower.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Albedo.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Albedo.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Height.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Height.png.meta
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Normal.png
+    - Assets/Asset Packs/Paid Assets/Environments - Misc other assets/Wall_Normal.png.meta
+    - Assets/Asset Packs/Paid Assets/Important README.txt
+    - Assets/Asset Packs/Paid Assets/Important README.txt.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 1 - Meadows.prefab
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 1 - Meadows.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 2 - Hills.prefab
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 2 - Hills.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 3 - Town.prefab
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 3 - Town.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 4 - Castle.prefab
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 4 - Castle.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 5 - Outer.prefab
+    - Assets/Asset Packs/Paid Assets/Prefabs from prototype/Zone 5 - Outer.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_01.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_01.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_03.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_03.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_04.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_04.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_Dark_02.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Materials/PolyAdventureMaterial_Dark_02.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Fence_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Fence_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Hut_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Hut_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Village_Top_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Village_Top_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Village_WindowDrapes_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Bld_Village_WindowDrapes_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_CampFire_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_CampFire_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_07.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Flower_07.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Mushroom_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Mushroom_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Plant_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Reeds_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_011.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_011.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_012.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_012.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_013.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_013.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_08.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Rock_08.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeBirch_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeDead_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeDead_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreePine_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreePine_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeStump_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_TreeStump_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_012.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_012.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_014.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_014.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_016.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_016.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_08.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Env_Tree_08.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Cart_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Cart_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Crate_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Crate_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_RoadSign_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_RoadSign_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Stall_Table_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Models/SM_Prop_Stall_Table_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Buildings.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Buildings/SM_Bld_Fence_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Buildings/SM_Bld_Fence_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Buildings/SM_Bld_Hut_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Buildings/SM_Bld_Hut_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_CampFire_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_CampFire_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_05.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_05.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_07.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Flower_07.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Mushroom_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Mushroom_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_05.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Plant_05.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Reeds_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_011.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_011.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_012.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_012.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_013.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_013.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_08.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Rock_08.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_01
+      (1).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_01
+      (1).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02
+      (1).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02
+      (1).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02
+      (2).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02
+      (2).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeBirch_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeDead_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeDead_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreePine_01
+      (1) 1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreePine_01
+      (1) 1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreePine_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreePine_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeStump_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_TreeStump_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_012.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_012.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_014
+      (1) 1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_014
+      (1) 1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_014.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_014.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (1) 1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (1) 1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (1).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (1).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (2).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016
+      (2).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_016.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04
+      (1).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04
+      (1).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04
+      1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04
+      1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_08
+      (1).prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_08
+      (1).prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_08.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/SM_Env_Tree_08.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/Trees
+      and Plants.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Environments/Trees
+      and Plants.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Cart_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Cart_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Crate_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Crate_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_RoadSign_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_RoadSign_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Stall_Table_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Prefabs/Props/SM_Prop_Stall_Table_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Textures.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Textures/PolyAdventureTexture_Dark_02.png
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonAdventure/Textures/PolyAdventureTexture_Dark_02.png.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Materials/PolyKnights_Mat_01_Dark.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Materials/PolyKnights_Mat_01_Dark.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Castle_Pillar_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Castle_Pillar_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Castle_Tower_Wall_Top_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Castle_Tower_Wall_Top_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Door_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Door_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Extension_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Extension_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Room_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Room_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Room_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Room_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_TowerBase_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_TowerBase_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Tower_01_Lite.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Church_Tower_01_Lite.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Chimney_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_FoundationRock_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_FoundationRock_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Window_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Window_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Window_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_House_Window_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Leanto_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_Leanto_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_StairsLarge_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Bld_StairsLarge_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Env_Flower_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Env_Flower_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Env_Path_Cobble_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Env_Path_Cobble_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Banner_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Banner_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Brazier_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Brazier_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_CampFire_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_CampFire_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Crate_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Crate_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Crate_01_Snow.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Crate_01_Snow.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Fence_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Fence_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Fence_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Fence_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Gravestone_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Gravestone_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Gravestone_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Gravestone_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Rowboat_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Models/SM_Prop_Rowboat_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Church.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Church.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_Castle_Pillar_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_Castle_Pillar_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_Castle_Tower_Wall_Top_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_Castle_Tower_Wall_Top_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_House_Chimney_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_StairsLarge_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/SM_Bld_StairsLarge_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Stone
+      building wood roof windows.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Stone
+      building wood roof windows.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Tavern
+      1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Buildings/Tavern
+      1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Environments.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Environments/SM_Env_Flower_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Environments/SM_Env_Flower_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Environments/SM_Env_Path_Cobble_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Environments/SM_Env_Path_Cobble_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Banner_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Banner_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Brazier_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Brazier_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_CampFire_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_CampFire_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Crate_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Crate_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Fence_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Fence_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Fence_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Fence_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Gravestone_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Gravestone_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Gravestone_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Gravestone_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Rowboat_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Prefabs/Props/SM_Prop_Rowboat_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Textures.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Textures/Texture_01_Dark.png
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonKnights/Textures/Texture_01_Dark.png.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Materials.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Materials/PolygonPirates_Material_01_A.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Materials/PolygonPirates_Material_01_A.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Materials/PolygonPirates_Material_03_B.mat
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Materials/PolygonPirates_Material_03_B.mat.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Dock_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Dock_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Dock_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Dock_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Dock_Platform_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Dock_Platform_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Dock_Stairs_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Dock_Stairs_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_House_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_House_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Tower_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Rickety_Tower_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Preset_Bar_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Preset_Bar_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Roof_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Roof_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Roof_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Roof_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Room_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Room_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Room_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_Room_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_SideAttachment_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_SideAttachment_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_SideAttachment_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shanty_SideAttachment_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shop_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shop_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shop_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Bld_Shop_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Arch_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Arch_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_010.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_010.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_06.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_06.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_07.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_07.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_08.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_08.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_09.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Large_09.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Skull_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rock_Skull_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Env_Rocks_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Bench_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Bench_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Campfire_Pot_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Campfire_Pot_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Cart_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Cart_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_Covered_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Crate_Covered_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Door_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Door_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Fence_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Fence_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Gallows_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Gallows_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_04.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_04.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Grave_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Sign_Attachment_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Sign_Attachment_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Skeleton_Ground_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Skeleton_Ground_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_05.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stack_05.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stool_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stool_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stool_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Stool_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Window_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Window_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Window_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Models/SM_Prop_Window_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Dock_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Dock_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Dock_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Dock_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Dock_Platform_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Dock_Platform_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Dock_Stairs_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Dock_Stairs_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_House_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_House_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Tower_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Tower_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Preset_Bar_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Preset_Bar_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shop_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shop_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shop_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/SM_Bld_Shop_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/Stone
+      Shack Wooden Roof Small.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Buildings/Stone
+      Shack Wooden Roof Small.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Arch_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Arch_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_010.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_010.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_05.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_05.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_06.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_06.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_07.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_07.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_08.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_08.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_09.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Large_09.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Skull_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Skull_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Environments/SM_Env_Rocks_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Bench_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Bench_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Campfire_Pot_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Campfire_Pot_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Cart_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Cart_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_Covered_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Crate_Covered_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Fence_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Fence_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Gallows_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Gallows_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_04.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_04.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_05.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Grave_05.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Skeleton_Ground_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Skeleton_Ground_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_05.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stack_05.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stool_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stool_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stool_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Prefabs/Props/SM_Prop_Stool_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_01_A.png
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_01_A.png.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_03_B.png
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_03_B.png.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_Emmisive.png
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonPirates/Textures/Texture_Emmisive.png.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Bld_Door_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Bld_Door_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Env_Rock_02.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Env_Rock_02.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Dock_03.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Dock_03.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Fence_Platform_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Fence_Platform_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Log_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Log_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Logs_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Prop_Logs_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Veh_FishingBoat_01.fbx
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Models/ImportedModels/SM_Veh_FishingBoat_01.fbx.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Buildings.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Buildings/Shack
+      with open storage 1.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Buildings/Shack
+      with open storage 1.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Environments.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Environments/SM_Env_Rock_02.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Environments/SM_Env_Rock_02.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/FX_Fire.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/FX_Fire.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Dock_03.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Dock_03.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Fence_Platform_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Fence_Platform_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Log_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Log_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Logs_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Props/SM_Prop_Logs_01.prefab.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Vehicles.meta
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Vehicles/SM_Veh_FishingBoat_01.prefab
+    - Assets/Asset Packs/Paid Assets/Synty Asset Packs - Commercial licence required/PolygonVikings/Prefabs/Vehicles/SM_Veh_FishingBoat_01.prefab.meta
+    - Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/Character_Knights_Soldier_01.prefab
+    - Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/HealthCampfire.prefab
+    - Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/HealthCampfire.prefab.meta
+    - Assets/Asset Packs/Water/Materials/WaterProDaytime.mat
+    - Assets/Free UI build package.meta
+    - Assets/Free UI build package/Art.meta
+    - Assets/Free UI build package/Art/Bars_Unity.png
+    - Assets/Free UI build package/Art/Bars_Unity.png.meta
+    - Assets/Free UI build package/Demo.meta
+    - Assets/Free UI build package/Demo/ExampelScene_1.unity
+    - Assets/Free UI build package/Demo/ExampelScene_1.unity.meta
+    - Assets/Free UI build package/Demo/Gray_scene.unity
+    - Assets/Free UI build package/Demo/Gray_scene.unity.meta
+    - Assets/Free UI build package/Documentation.meta
+    - Assets/Free UI build package/Documentation/Free_ui_pack_Dokumentation.pdf
+    - Assets/Free UI build package/Documentation/Free_ui_pack_Dokumentation.pdf.meta
+    - Assets/Free UI build package/Prefabs.meta
+    - Assets/Free UI build package/Prefabs/Gray.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_10.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_10.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_11.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_11.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_3.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_3.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_4.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_4.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_5.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_5.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_6.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_6.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_7.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_7.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_8.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_8.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_9.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Bars/Bar_9.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_3.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_3.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_4.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_4.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_5.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_5.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_6.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Buttons/Button_6.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Dropdowns.meta
+    - Assets/Free UI build package/Prefabs/Gray/Dropdowns/Dropdown_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Dropdowns/Dropdown_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Dropdowns/Dropdown_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Dropdowns/Dropdown_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Icons.meta
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_3.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Icons/Icon_3.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/BackGround.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/BackGround.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Corner.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Corner.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Frame1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Frame1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Frame_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Frame_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Gem_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Gem_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Gem_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Gem_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod3.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Miscellaneous/Rod3.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_2.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_3.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_3.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_4.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_4.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_5.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_5.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_6.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Sliders/Slider_6.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Toggles.meta
+    - Assets/Free UI build package/Prefabs/Gray/Toggles/Toggle_1.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Toggles/Toggle_1.prefab.meta
+    - Assets/Free UI build package/Prefabs/Gray/Toggles/Toggle_2.prefab
+    - Assets/Free UI build package/Prefabs/Gray/Toggles/Toggle_2.prefab.meta
+    - Assets/Free UI build package/Script.meta
+    - Assets/Free UI build package/Script/Slide.cs
+    - Assets/Free UI build package/Script/Slide.cs.meta
+    - Assets/Free UI build package/Script/Togglescript.cs
+    - Assets/Free UI build package/Script/Togglescript.cs.meta
+    - Assets/Game/Characters/Enemies/Archer.prefab
+    - Assets/Game/Characters/Player/Player.prefab
+    - Assets/Game/Core/Core.prefab
+    - Assets/Game/Core/Fader.prefab
+    - Assets/Game/Pickups/Health Pickup.prefab
+    - Assets/Game/UI/Components.meta
+    - Assets/Game/UI/Components/AutoLayoutButton.prefab
+    - Assets/Game/UI/Components/AutoLayoutButton.prefab.meta
+    - Assets/Game/UI/Components/Autolayout Button.prefab
+    - Assets/Game/UI/Components/Autolayout Button.prefab.meta
+    - Assets/Game/UI/Components/Body Text.prefab
+    - Assets/Game/UI/Components/Body Text.prefab.meta
+    - Assets/Game/UI/Components/Button Variant.prefab
+    - Assets/Game/UI/Components/Button Variant.prefab.meta
+    - Assets/Game/UI/Components/Button.prefab
+    - Assets/Game/UI/Components/Button.prefab.meta
+    - Assets/Game/UI/Components/Heading Text.prefab
+    - Assets/Game/UI/Components/Heading Text.prefab.meta
+    - Assets/Game/UI/Components/Minus Button.prefab
+    - Assets/Game/UI/Components/Minus Button.prefab.meta
+    - Assets/Game/UI/Components/Panel.prefab
+    - Assets/Game/UI/Components/Panel.prefab.meta
+    - Assets/Game/UI/Components/Plus Button.prefab
+    - Assets/Game/UI/Components/Plus Button.prefab.meta
+    - Assets/Game/UI/Components/Quit Button.prefab
+    - Assets/Game/UI/Components/Quit Button.prefab.meta
+    - Assets/Game/UI/Components/Scroll View.prefab
+    - Assets/Game/UI/Components/Scroll View.prefab.meta
+    - Assets/Game/UI/Components/Title.prefab
+    - Assets/Game/UI/Components/Title.prefab.meta
+    - Assets/Game/UI/Main Menu Canvas.prefab
+    - Assets/Game/UI/Main Menu Canvas.prefab.meta
+    - Assets/Game/UI/Pause UI.prefab
+    - Assets/Game/UI/Pause UI.prefab.meta
+    - Assets/Game/UI/UICanvas.prefab
+    - Assets/Game/UI/UICanvas.prefab.meta
+    - Assets/New Terrain.asset
+    - Assets/RPGPP_LT.meta
+    - Assets/RPGPP_LT/Materials.meta
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_cloud_a.mat
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_cloud_a.mat.meta
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_mat_a.mat
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_mat_a.mat.meta
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_sky_a.mat
+    - Assets/RPGPP_LT/Materials/rpgpp_lt_sky_a.mat.meta
+    - Assets/RPGPP_LT/Models.meta
+    - Assets/RPGPP_LT/Models/Nature.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_bush_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_bush_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_bush_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_bush_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_cloud_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_cloud_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_cloud_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_cloud_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_03.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_flower_03.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_grass_small_01a.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_grass_small_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_grass_small_01b.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_grass_small_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_hill_small_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_hill_small_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_hill_small_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_hill_small_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_mountain_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_mountain_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_plant_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_plant_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_plant_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_plant_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_03.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_03.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_small_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_small_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_small_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rock_small_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rocks_tiny_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_rocks_tiny_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_sky_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_sky_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_grass_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_grass_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_grass_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_grass_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_path_01a.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_path_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_path_01b.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_path_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_sand_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_terrain_sand_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_02.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_pine_01.fbx
+    - Assets/RPGPP_LT/Models/Nature/rpgpp_lt_tree_pine_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_banner_01a.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_banner_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_banner_01b.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_banner_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_barrel_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_barrel_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bathtub_wood_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bathtub_wood_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bench_wood_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bench_wood_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bird_house_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bird_house_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bowl_metal_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bowl_metal_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_box_wood_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_box_wood_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_broom_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_broom_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bucket_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_bucket_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_chair_01a.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_chair_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_chair_01b.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_chair_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_hanger_clothes_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_hanger_clothes_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_hanger_wood_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_hanger_wood_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_jug_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_jug_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_ladder_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_ladder_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_log_wood_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_log_wood_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_package_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_package_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_rake_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_rake_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_sack_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_sack_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_sack_open_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_sack_open_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_shield_wall_01a.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_shield_wall_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_shield_wall_01b.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_shield_wall_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_table_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_table_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_trough_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_trough_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_vase_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_vase_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_vase_02.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_vase_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wagon_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wagon_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_well_01.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_well_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wood_path_01a.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wood_path_01a.fbx.meta
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wood_path_01b.fbx
+    - Assets/RPGPP_LT/Models/Props/rpgpp_lt_wood_path_01b.fbx.meta
+    - Assets/RPGPP_LT/Models/Structures.meta
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_01.fbx
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_01.fbx.meta
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_02.fbx
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_02.fbx.meta
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_03.fbx
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_03.fbx.meta
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_04.fbx
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_04.fbx.meta
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_05.fbx
+    - Assets/RPGPP_LT/Models/Structures/rpgpp_lt_building_05.fbx.meta
+    - Assets/RPGPP_LT/Prefabs.meta
+    - Assets/RPGPP_LT/Prefabs/Nature.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_03.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_03.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_small_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_small_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_small_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rock_small_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rocks_tiny_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Rocks/rpgpp_lt_rocks_tiny_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_cloud_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_cloud_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_cloud_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_cloud_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_sky_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Sky/rpgpp_lt_sky_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_hill_small_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_hill_small_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_hill_small_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_hill_small_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_mountain_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_mountain_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_grass_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_grass_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_grass_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_grass_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_path_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_path_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_path_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_path_01b.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_sand_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Terrain/rpgpp_lt_terrain_sand_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Bushes.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Bushes/rpgpp_lt_bush_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Bushes/rpgpp_lt_bush_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Bushes/rpgpp_lt_bush_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Bushes/rpgpp_lt_bush_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_03.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Flowers/rpgpp_lt_flower_03.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Grass.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Grass/rpgpp_lt_grass_small_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Grass/rpgpp_lt_grass_small_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Grass/rpgpp_lt_grass_small_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Grass/rpgpp_lt_grass_small_01b.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Plants.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Plants/rpgpp_lt_plant_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_pine_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Nature/Vegetation/Trees/rpgpp_lt_tree_pine_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_barrel_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_barrel_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bathtub_wood_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bathtub_wood_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bowl_metal_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bowl_metal_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_box_wood_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_box_wood_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bucket_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_bucket_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_jug_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_jug_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_package_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_package_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_sack_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_sack_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_sack_open_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_sack_open_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_trough_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_trough_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_vase_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_vase_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_vase_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Containers/rpgpp_lt_vase_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Benches.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Benches/rpgpp_lt_bench_wood_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Benches/rpgpp_lt_bench_wood_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Chairs.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Chairs/rpgpp_lt_chair_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Chairs/rpgpp_lt_chair_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Chairs/rpgpp_lt_chair_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Chairs/rpgpp_lt_chair_01b.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Hangers.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Hangers/rpgpp_lt_hanger_clothes_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Hangers/rpgpp_lt_hanger_clothes_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Hangers/rpgpp_lt_hanger_wood_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Hangers/rpgpp_lt_hanger_wood_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Tables.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Tables/rpgpp_lt_table_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Furniture/Tables/rpgpp_lt_table_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Items.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_broom_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_broom_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_ladder_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_ladder_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_rake_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_rake_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Misc.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_bird_house_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_bird_house_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_wagon_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_wagon_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_well_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Misc/rpgpp_lt_well_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01b.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Shields.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Shields/rpgpp_lt_shield_wall_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Shields/rpgpp_lt_shield_wall_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Shields/rpgpp_lt_shield_wall_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Shields/rpgpp_lt_shield_wall_01b.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wood.meta
+    - Assets/RPGPP_LT/Prefabs/Props/Wood/rpgpp_lt_log_wood_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Props/Wood/rpgpp_lt_log_wood_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_01.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_01.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_02.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_02.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_03.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_03.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_04.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_04.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_05.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Buildings/Bld_closed/rpgpp_lt_building_05.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts/Wood_path.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts/Wood_path/rpgpp_lt_wood_path_01a.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts/Wood_path/rpgpp_lt_wood_path_01a.prefab.meta
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts/Wood_path/rpgpp_lt_wood_path_01b.prefab
+    - Assets/RPGPP_LT/Prefabs/Structures/Parts/Wood_path/rpgpp_lt_wood_path_01b.prefab.meta
+    - Assets/RPGPP_LT/Scene.meta
+    - Assets/RPGPP_LT/Textures.meta
+    - Assets/RPGPP_LT/Textures/rpgpp_lt_sky_a.tga
+    - Assets/RPGPP_LT/Textures/rpgpp_lt_sky_a.tga.meta
+    - Assets/RPGPP_LT/Textures/rpgpp_lt_tex_a.tga
+    - Assets/RPGPP_LT/Textures/rpgpp_lt_tex_a.tga.meta
+    - Assets/Resources.meta
+    - Assets/Resources/BillingMode.json
+    - Assets/Resources/BillingMode.json.meta
+    - Assets/Scenes/Boss Scene.lighting
+    - Assets/Scenes/Boss Scene.lighting.meta
+    - Assets/Scenes/Boss Scene.unity
+    - Assets/Scenes/Boss Scene.unity.meta
+    - Assets/Scenes/Main Menu.unity
+    - Assets/Scenes/Main Menu.unity.meta
+    - Assets/Scenes/Sandbox 2.unity
+    - Assets/Scenes/Sandbox 2/NavMesh.asset
+    - Assets/Scenes/Sandbox 2Settings.lighting
+    - Assets/Scenes/Sandbox 2Settings.lighting.meta
+    - Assets/Scenes/Sandbox.unity
+    - Assets/Scenes/Sandbox/Moment sketch.png
+    - Assets/Scenes/Sandbox/Moment sketch.png.meta
+    - Assets/Scenes/Sandbox/NavMesh.asset
+    - Assets/Scenes/Sandbox/Sandbox Terrain.asset
+    - Assets/Scenes/Sandbox/TerrainData_9205b6a4-6408-48ae-b5fd-128f4ac17338.asset
+    - Assets/Scenes/SandboxSettings.lighting
+    - Assets/Scenes/SandboxSettings.lighting.meta
+    - Assets/Scripts/Attributes/Health.cs
+    - Assets/Scripts/Attributes/HealthBar.cs
+    - Assets/Scripts/Attributes/HealthDisplay.cs
+    - Assets/Scripts/Cinematics/CinematicControlRemover.cs
+    - Assets/Scripts/Cinematics/CinematicTrigger.cs
+    - Assets/Scripts/Combat/CombatTarget.cs
+    - Assets/Scripts/Combat/EnemyHealthDisplay.cs
+    - Assets/Scripts/Combat/Fighter.cs
+    - Assets/Scripts/Combat/Projectile.cs
+    - Assets/Scripts/Combat/Weapon.cs
+    - Assets/Scripts/Combat/WeaponConfig.cs
+    - Assets/Scripts/Combat/WeaponPickup.cs
+    - Assets/Scripts/Control/AIController.cs
+    - Assets/Scripts/Control/CursorType.cs
+    - Assets/Scripts/Control/IRaycastable.cs
+    - Assets/Scripts/Control/PatrolPath.cs
+    - Assets/Scripts/Control/PlayerController.cs
+    - Assets/Scripts/Control/Respawner.cs
+    - Assets/Scripts/Control/Respawner.cs.meta
+    - Assets/Scripts/Core/ActionScheduler.cs
+    - Assets/Scripts/Core/CameraFacing.cs
+    - Assets/Scripts/Core/DestroyAfterEffect.cs
+    - Assets/Scripts/Core/FollowCamera.cs
+    - Assets/Scripts/Core/IAction.cs
+    - Assets/Scripts/Core/PersistentObjectSpawner.cs
+    - Assets/Scripts/Movement/Mover.cs
+    - Assets/Scripts/Saving/ISaveable.cs
+    - Assets/Scripts/Saving/SaveableEntity.cs
+    - Assets/Scripts/Saving/SavingSystem.cs
+    - Assets/Scripts/Saving/SerializableVector3.cs
+    - Assets/Scripts/SceneManagement/Fader.cs
+    - Assets/Scripts/SceneManagement/Portal.cs
+    - Assets/Scripts/SceneManagement/SavingWrapper.cs
+    - Assets/Scripts/Stats/BaseStats.cs
+    - Assets/Scripts/Stats/CharacterClass.cs
+    - Assets/Scripts/Stats/Experience.cs
+    - Assets/Scripts/Stats/ExperienceDisplay.cs
+    - Assets/Scripts/Stats/IModifierProvider.cs
+    - Assets/Scripts/Stats/LevelDisplay.cs
+    - Assets/Scripts/Stats/Progression.cs
+    - Assets/Scripts/Stats/Stats.cs
+    - Assets/Scripts/UI/DamageText/DamageText.cs
+    - Assets/Scripts/UI/DamageText/DamageTextSpawner.cs
+    - Assets/Scripts/UI/MainMenuUI.cs
+    - Assets/Scripts/UI/MainMenuUI.cs.meta
+    - Assets/Scripts/UI/PauseMenuUI.cs
+    - Assets/Scripts/UI/PauseMenuUI.cs.meta
+    - Assets/Scripts/UI/SaveLoadUI.cs
+    - Assets/Scripts/UI/SaveLoadUI.cs.meta
+    - Assets/Scripts/UI/ShowHideUI.cs
+    - Assets/Scripts/UI/ShowHideUI.cs.meta
+    - Assets/Scripts/UI/UISwitcher.cs
+    - Assets/Scripts/UI/UISwitcher.cs.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Examples & Extras.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+    - Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta
+    - Assets/TextMesh Pro/Examples & Extras/Materials.meta
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+    - Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+    - Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue
+      to Purple - Vertical.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue
+      to Purple - Vertical.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark
+      to Light Green - Vertical.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark
+      to Light Green - Vertical.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light
+      to Dark Green - Vertical.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light
+      to Dark Green - Vertical.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow
+      to Orange - Vertical.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow
+      to Orange - Vertical.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Drop Shadow.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Outline.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Outline.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Sunny Days.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF
+      - Sunny Days.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      - Drop Shadow.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      - Outline.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      - Outline.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      Glow.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      Glow.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      Logo.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF
+      Logo.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Metalic Green.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Metalic Green.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Overlay.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Overlay.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Soft Mask.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Soft Mask.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold
+      SDF.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold
+      SDF.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Surface.mat
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Surface.mat.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite
+      Asset.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite
+      Asset.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+    - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode
+      example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode
+      example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+    - Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+    - Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta
+    - Assets/TextMesh Pro/Examples & Extras/Sprites.meta
+    - Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+    - Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta
+    - Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+    - Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text
+      Image 1.png
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text
+      Image 1.png.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text
+      UI Screenshot.png
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text
+      UI Screenshot.png.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd.meta
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+    - Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/UITools.meta
+    - Assets/UITools/UI Tools.meta
+    - Assets/UITools/UI Tools/Editor.meta
+    - Assets/UITools/UI Tools/Editor/OptionSelectorEditor.cs
+    - Assets/UITools/UI Tools/Editor/OptionSelectorEditor.cs.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/01_Icon_Dropdow.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/01_Icon_Dropdow.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/02_Icon_Radio_Button.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/02_Icon_Radio_Button.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/03_Option_Selector.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/03_Option_Selector.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/04_Progressbar.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/04_Progressbar.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/05_Listbox.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/05_Listbox.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/06_TabControl.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/06_TabControl.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/07_Table.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/07_Table.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/08_Groupbox.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/08_Groupbox.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/09_Message_Box.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/09_Message_Box.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/10_Tooltip.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/10_Tooltip.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/11_Draggable.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/11_Draggable.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/12_Calendar.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/12_Calendar.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/13_Up_Arrow.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/13_Up_Arrow.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/14_Game_Cursor.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/14_Game_Cursor.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/14_InGame_Cursor.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/14_InGame_Cursor.png.meta
+    - Assets/UITools/UI Tools/Editor/Script Icons/15_Cursor.png
+    - Assets/UITools/UI Tools/Editor/Script Icons/15_Cursor.png.meta
+    - Assets/UITools/UI Tools/Editor/UIToolsMaker.cs
+    - Assets/UITools/UI Tools/Editor/UIToolsMaker.cs.meta
+    - Assets/UITools/UI Tools/Example.meta
+    - Assets/UITools/UI Tools/Example/AssetCredits.cs
+    - Assets/UITools/UI Tools/Example/AssetCredits.cs.meta
+    - Assets/UITools/UI Tools/Example/UITools Examples.unity
+    - Assets/UITools/UI Tools/Example/UITools Examples.unity.meta
+    - Assets/UITools/UI Tools/Example/bg-and-box.png
+    - Assets/UITools/UI Tools/Example/bg-and-box.png.meta
+    - Assets/UITools/UI Tools/Example/external icon.png
+    - Assets/UITools/UI Tools/Example/external icon.png.meta
+    - Assets/UITools/UI Tools/Resources.meta
+    - Assets/UITools/UI Tools/Resources/Dropdown.prefab
+    - Assets/UITools/UI Tools/Resources/Dropdown.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Calendar.prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Calendar.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Draggable Panel.prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Draggable Panel.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Message Box.prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Message Box.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/MessageBox Dialog.prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/MessageBox Dialog.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (+Icon).prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (+Icon).prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (Body).prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (Body).prefab.meta
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (Header-Body).prefab
+    - Assets/UITools/UI Tools/Resources/Extentions/Tooltips/Tooltip (Header-Body).prefab.meta
+    - Assets/UITools/UI Tools/Resources/GroupBox.prefab
+    - Assets/UITools/UI Tools/Resources/GroupBox.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Listbox.prefab
+    - Assets/UITools/UI Tools/Resources/Listbox.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Option Selector.prefab
+    - Assets/UITools/UI Tools/Resources/Option Selector.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Progress Bar.prefab
+    - Assets/UITools/UI Tools/Resources/Progress Bar.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Radio Button Group.prefab
+    - Assets/UITools/UI Tools/Resources/Radio Button Group.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Radio Button.prefab
+    - Assets/UITools/UI Tools/Resources/Radio Button.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Tab Control.prefab
+    - Assets/UITools/UI Tools/Resources/Tab Control.prefab.meta
+    - Assets/UITools/UI Tools/Resources/Table.prefab
+    - Assets/UITools/UI Tools/Resources/Table.prefab.meta
+    - Assets/UITools/UI Tools/Scripts.meta
+    - Assets/UITools/UI Tools/Scripts/Calendar.meta
+    - Assets/UITools/UI Tools/Scripts/Calendar/ButtonEventData.cs
+    - Assets/UITools/UI Tools/Scripts/Calendar/ButtonEventData.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Calendar/Calendar.cs
+    - Assets/UITools/UI Tools/Scripts/Calendar/Calendar.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Calendar/CalendarButton.cs
+    - Assets/UITools/UI Tools/Scripts/Calendar/CalendarButton.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Collections.meta
+    - Assets/UITools/UI Tools/Scripts/Collections/Groupbox.cs
+    - Assets/UITools/UI Tools/Scripts/Collections/Groupbox.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Collections/ListBox.cs
+    - Assets/UITools/UI Tools/Scripts/Collections/ListBox.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Collections/TabControl.cs
+    - Assets/UITools/UI Tools/Scripts/Collections/TabControl.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Collections/Table.cs
+    - Assets/UITools/UI Tools/Scripts/Collections/Table.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Cursors.meta
+    - Assets/UITools/UI Tools/Scripts/Cursors/GameCursor.cs
+    - Assets/UITools/UI Tools/Scripts/Cursors/GameCursor.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Cursors/IngameCursor.cs
+    - Assets/UITools/UI Tools/Scripts/Cursors/IngameCursor.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageBoxData.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageBoxData.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageResponse.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageResponse.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageboxExample.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/MessageBox/MessageboxExample.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/ProgressBar.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/ProgressBar.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/Tooltip.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/Tooltip/Tooltip.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/Tooltip/Tooltip.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Data Managers/Tooltip/TooltipModal.cs
+    - Assets/UITools/UI Tools/Scripts/Data Managers/Tooltip/TooltipModal.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Helpers.meta
+    - Assets/UITools/UI Tools/Scripts/Helpers/Draggable.cs
+    - Assets/UITools/UI Tools/Scripts/Helpers/Draggable.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Helpers/UIFocus.cs
+    - Assets/UITools/UI Tools/Scripts/Helpers/UIFocus.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Selections.meta
+    - Assets/UITools/UI Tools/Scripts/Selections/Combobox.cs
+    - Assets/UITools/UI Tools/Scripts/Selections/Combobox.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Selections/OptionSelector.cs
+    - Assets/UITools/UI Tools/Scripts/Selections/OptionSelector.cs.meta
+    - Assets/UITools/UI Tools/Scripts/Selections/RadioButtonGroup.cs
+    - Assets/UITools/UI Tools/Scripts/Selections/RadioButtonGroup.cs.meta
+    - Assets/UITools/UI Tools/UI Tools Documentation.pdf
+    - Assets/UITools/UI Tools/UI Tools Documentation.pdf.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
